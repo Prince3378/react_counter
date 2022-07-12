@@ -1,0 +1,2 @@
+*{font-family:"Arial",sans-serif}.App{margin:auto;width:500px;display:flex;flex-direction:column;background-color:beige;box-shadow:5px -5px 5px #d3d399}.paragraph{text-align:center}.buttons{display:flex;justify-content:space-around}.btn{cursor:pointer;background-color:#45d6d6;border-radius:5px;height:35px;width:100px;transition:background-color 1s,box-shadow 1s;box-shadow:5px -5px 5px #86b4b4}.btn:hover{background-color:#86b4b4;box-shadow:5px -5px 5px #45d6d6}
+/*# sourceMappingURL=main.0aad82bd.chunk.css.map */
